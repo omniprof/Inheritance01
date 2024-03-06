@@ -1,7 +1,7 @@
 package com.cejv416.inheritance01;
 
 /**
- * Example of using inheritence and polymorphism
+ * Example of using inheritance and polymorphism
  *
  * @author Ken Fogel
  */
